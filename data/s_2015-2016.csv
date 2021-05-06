@@ -1,0 +1,106 @@
+,College/Major,Graduates,Respondents,% Respondents,Employed,% Employed,Reported Salary,% Reported Salary,25th Percentile,Median,75th Percentile
+0,Whole University,5670,3494,0.62,1751,0.5,1506,0.86,43028.0,58000.0,66900.0
+1,College of Agriculture and Life Sciences,710,425,0.6,130,0.31,103,0.79,23750.0,34000.0,45000.0
+2,Agribusiness,33,18,0.55,12,0.67,10,0.83,,45000.0,
+3,Agricultural Sciences,27,16,0.59,9,0.57,8,0.88,,30500.0,
+4,Agricultural Technology,57,15,0.26,8,0.54,5,0.62,,26000.0,
+5,Animal & Poultry Sciences,130,80,0.62,21,0.27,18,0.85,18000.0,29500.0,38000.0
+6,Applied Economic Management,52,28,0.54,13,0.47,11,0.84,,40000.0,
+7,Biochemistry,41,25,0.61,5,0.2,4,0.8,,27500.0,
+8,Crop & Soil Environ Sciences,18,9,0.5,5,0.56,2,0.4,,,
+9,Dairy Science,22,17,0.77,9,0.53,6,0.66,,47500.0,
+10,Environmental Horticulture,16,11,0.69,4,0.36,4,1.0,,33500.0,
+11,Environmental Science,30,21,0.7,5,0.24,4,0.8,,45000.0,
+12,Food Science & Technology,35,25,0.71,9,0.36,7,0.77,,40000.0,
+13,Human Nutrition Foods & Exercise,241,154,0.64,25,0.17,19,0.76,20000.0,24000.0,30375.0
+14,Landscape Contracting,8,6,0.75,5,0.83,5,1.0,,31000.0,
+15,College of Architecture and Urban Studies,298,168,0.56,89,0.53,78,0.87,42000.0,47250.0,54000.0
+16,Architecture,93,53,0.57,30,0.57,29,0.96,42535.0,47000.0,49750.0
+17,Art,2,2,1.0,0,0.0,0,-0.01,,,
+18,Art (Fine Arts),43,21,0.49,8,0.38,3,0.37,,,
+19,Building Construction,39,27,0.69,19,0.7,16,0.84,55000.0,60000.0,63000.0
+20,Environmental Policy & Planning,24,18,0.75,7,0.4,6,0.85,,45500.0,
+21,Industrial Design,31,17,0.55,7,0.41,6,0.85,,52500.0,
+22,Interior Design,32,17,0.53,11,0.65,11,1.0,,43000.0,
+23,Landscape Architecture,13,6,0.46,4,0.67,4,1.0,,47000.0,
+24,Public and Urban Affairs,14,5,0.36,2,0.4,2,1.0,,,
+25,Real Estate,7,2,0.29,1,0.5,1,1.0,,,
+26,College of Engineering,1603,1069,0.67,691,0.65,620,0.89,58000.0,65000.0,72000.0
+27,Aerospace Engineering,91,75,0.82,48,0.64,43,0.89,49000.0,61000.0,70000.0
+28,Biological Systems Engineering,49,35,0.71,19,0.55,13,0.68,50890.0,63000.0,63750.0
+29,Chemical Engineering,95,70,0.74,45,0.64,44,0.97,63000.0,69000.0,72000.0
+30,Civil Engineering,197,125,0.63,72,0.58,65,0.9,51250.0,57000.0,61500.0
+31,Computer Engineering,95,65,0.68,46,0.72,42,0.91,67000.0,74008.0,84500.0
+32,Computer Science,208,141,0.68,111,0.79,98,0.88,68200.0,78000.0,88000.0
+33,Construction Engineering & Management,27,20,0.74,13,0.65,12,0.92,56400.0,60500.0,64000.0
+34,"Dual, Aerospace Engineering (Aero plus Ocean)",8,7,0.88,3,0.43,2,0.66,,,
+35,"Dual, Ocean Engineering (Ocean plus Aero)",7,3,0.43,2,0.67,2,1.0,,,
+36,Electrical Engineering,122,84,0.69,41,0.48,39,0.95,60000.0,67500.0,72625.0
+37,Engineering Science & Mechanics,36,27,0.75,13,0.48,10,0.76,,61000.0,
+38,Industrial & Systems Engineering,175,114,0.65,91,0.8,82,0.9,60000.0,65000.0,70000.0
+39,Materials Science & Engineering,53,29,0.55,12,0.4,9,0.75,,60000.0,
+40,Mechanical Engineering,365,227,0.62,141,0.63,128,0.9,58000.0,65450.0,70500.0
+41,Mining Engineering,61,35,0.57,23,0.66,21,0.91,55500.0,65000.0,65750.0
+42,Ocean Engineering,14,12,0.86,11,0.92,10,0.9,,65500.0,
+43,College of Liberal Arts and Human Sciences,1006,539,0.54,185,0.34,139,0.75,30000.0,39000.0,45000.0
+44,"Apparel, Housing and Resource Management",2,0,0.0,0,-0.01,0,-0.01,,,
+45,Classical Studies,3,2,0.67,0,0.0,0,-0.01,,,
+46,Communication Studies,27,19,0.7,6,0.31,6,1.0,,46500.0,
+47,Consumer Studies,21,10,0.48,3,0.3,1,0.33,,,
+48,Creative Writing,20,12,0.6,2,0.17,1,0.5,,,
+49,Criminology,10,7,0.7,3,0.43,3,1.0,,,
+50,English,13,11,0.85,4,0.36,2,0.5,,,
+51,Fashion Merchandising and Design,33,9,0.27,3,0.33,2,0.66,,,
+52,French,4,2,0.5,0,0.0,0,-0.01,,,
+53,German,3,3,1.0,0,0.0,0,-0.01,,,
+54,History,64,31,0.48,12,0.38,9,0.75,,31000.0,
+55,Human Development,220,115,0.52,24,0.21,14,0.58,24800.0,27520.0,29965.0
+56,"Humanities, Science & Environment",3,2,0.67,1,0.5,1,1.0,,,
+57,Interdisciplinary Studies,2,0,0.0,0,-0.01,0,-0.01,,,
+58,International Studies,87,45,0.52,19,0.42,17,0.89,34250.0,43057.0,50250.0
+59,Literature and Language,30,17,0.57,4,0.24,2,0.5,,,
+60,Multimedia Journalism,48,26,0.54,13,0.5,9,0.69,,33000.0,
+61,Music,15,7,0.47,2,0.29,0,0.0,,,
+62,Philosophy,12,4,0.33,1,0.25,1,1.0,,,
+63,Political Science,145,89,0.61,34,0.38,28,0.82,34000.0,40000.0,46500.0
+64,Professional and Technical Writing,12,6,0.5,3,0.5,3,1.0,,,
+65,Property Management,12,3,0.25,2,0.67,2,1.0,,,
+66,Public Relations,144,77,0.53,38,0.49,30,0.78,31250.0,40000.0,46500.0
+67,Religion and Culture,7,3,0.43,1,0.33,0,0.0,,,
+68,Residential Environments and Design,3,1,0.33,1,1.0,1,1.0,,,
+69,Russian,3,0,0.0,0,-0.01,0,-0.01,,,
+70,Sociology,36,19,0.53,6,0.32,5,0.83,,35009.0,
+71,Spanish,13,6,0.46,1,0.17,0,0.0,,,
+72,Theatre Arts,17,13,0.76,2,0.15,2,1.0,,,
+73,College of Natural Resources and Environment,239,147,0.62,64,0.44,47,0.73,30000.0,40000.0,50000.0
+74,Environmental Informatics,1,1,1.0,1,1.0,1,1.0,,,
+75,Environmental Resources Management,22,13,0.59,5,0.38,3,0.6,,,
+76,Fish Conservation,16,12,0.75,1,0.08,0,0.0,,,
+77,Forestry,19,15,0.79,11,0.73,10,0.9,,34000.0,
+78,Geography,53,31,0.58,14,0.44,8,0.57,,45380.0,
+79,Meteorology,35,19,0.54,7,0.37,6,0.85,,36344.0,
+80,Natural Resources Conservation,18,10,0.56,2,0.2,2,1.0,,,
+81,Packaging Systems and Design,21,14,0.67,8,0.57,7,0.87,,58000.0,
+82,Sustainable Biomaterials,13,7,0.54,5,0.71,5,1.0,,48500.0,
+83,Wildlife Conservation,41,25,0.61,10,0.4,5,0.5,,25000.0,
+84,College of Science,856,488,0.57,123,0.24,87,0.7,32000.0,41000.0,57250.0
+85,Biochemistry (SCI),83,39,0.47,7,0.19,6,0.85,,27250.0,
+86,Biological Sciences,264,157,0.59,27,0.17,17,0.62,22500.0,31000.0,37300.0
+87,Chemistry,38,21,0.55,7,0.34,3,0.42,,,
+88,Economics,69,41,0.59,21,0.51,17,0.8,45000.0,55000.0,60000.0
+89,Geosciences,26,15,0.58,6,0.4,6,1.0,,51000.0,
+90,Mathematics,90,59,0.66,17,0.29,15,0.88,38900.0,50000.0,61250.0
+91,Microbiology,18,10,0.56,3,0.3,3,1.0,,,
+92,Nanoscience,2,0,0.0,0,-0.01,0,-0.01,,,
+93,Neuroscience,4,3,0.75,1,0.33,1,1.0,,,
+94,Physics,37,22,0.59,3,0.14,1,0.33,,,
+95,Psychology,192,102,0.53,22,0.22,9,0.4,,32862.0,
+96,Statistics,34,19,0.56,9,0.47,9,1.0,,62000.0,
+97,Pamplin College of Business,967,658,0.68,469,0.71,432,0.92,48000.0,58000.0,63000.0
+98,Accounting & Information Systems,168,116,0.69,77,0.66,70,0.9,52000.0,56750.0,60000.0
+99,Business Information Technology,232,176,0.76,141,0.8,136,0.96,60000.0,63750.0,72500.0
+100,"Economics, Business",19,11,0.58,7,0.64,7,1.0,,58000.0,
+101,Finance,222,143,0.64,95,0.67,87,0.91,50750.0,59000.0,61250.0
+102,Hospitality & Tourism Management,68,39,0.57,31,0.8,27,0.87,40000.0,44000.0,45575.0
+103,Management,114,76,0.67,51,0.67,47,0.92,40000.0,48000.0,54500.0
+104,Marketing Management,153,97,0.63,67,0.69,58,0.86,40000.0,48000.0,58000.0
